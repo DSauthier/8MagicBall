@@ -51,7 +51,7 @@
   -o-transform: translateX(68px) translateY(-60px) skewX(15deg) skewY(2deg);
   transform: translateX(68px) translateY(-60px) skewX(15deg) skewY(2deg);
   position: absolute;
-   animation: move-eye-skew 5s ease-out infinite;
+   animation: move-eye-skew 4s ease-out infinite;
 }
 @keyframes move-eye-skew {
   0%,10% {
